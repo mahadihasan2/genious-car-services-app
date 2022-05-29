@@ -1,0 +1,46 @@
+[
+    {
+        "id":1,
+        "name": "Engine diagnostic",
+        "price": 100,
+        "description": "This is the very good service in the world",
+        "img": "https://i.ibb.co/xCgN0vB/car-repair6.jpg"
+    },
+    {
+        "id":2,
+        "name": "Engine diagnostic motor",
+        "price": 300,
+        "description": "This is the very good service in the world best calculators",
+        "img": "https://i.ibb.co/CBgMsZp/car-repair5.jpg"
+    },
+    {
+        "id":3,
+        "name": "Engine diagnostic center",
+        "price": 400,
+        "description": "This is the very good service in the world best",
+        "img": "https://i.ibb.co/GHbCh5g/car-repair4.jpg"
+    },
+    {
+        "id":4,
+        "name": "Engine diagnostic center club",
+        "price": 500,
+        "description": "This is the very good service in the world best club",
+        "img": "https://i.ibb.co/k1VgKg0/car-repair3.jpg"
+    },
+    {
+        "id":5,
+        "name": "Engine diagnostic center club coly",
+        "price": 600,
+        "description": "This is the very good service in the world best club coly",
+        "img": "https://i.ibb.co/V23hbxQ/car-repair2.jpg"
+        
+    },
+    {
+        "id":5,
+        "name": "Engine diagnostic center club coly clam",
+        "price": 700,
+        "description": "This is the very good service in the world best club coly",
+        "img": "https://i.ibb.co/5jN8fJc/car-repair1.jpg"
+        
+    }
+]
