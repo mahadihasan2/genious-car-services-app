@@ -1,4 +1,27 @@
+.container {
+    border: 1px solid lightgray;
+    border-radius: 10px;
+    padding-bottom: 10px;
+    text-align: center;
+}
+
 .container img {
+    width: 350px;
     height: 200px;
-    width: 300px;
+}
+
+
+/* img responsive and media query */
+@media only screen and (max-width:576px) {
+    .container img {
+        margin: auto;
+        width: 410px;
+    }
+
+}
+
+@media only screen and (min-width:577px) and (max-width:992px) {
+    .container img {
+        width: 370px;
+    }
 }
